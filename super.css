@@ -386,12 +386,19 @@ hr{
      z-index: 1;
 }
 
-.social-icons img{
+.social-icons img, ion-icons{
      display: block;
      width: 20px;
      margin: 0 auto 20px;
      cursor: pointer;
 }
+
+ion-icon{
+     color: rgb(34, 34, 34);
+     font-size: 20px;
+}
+
+
 
 /*------- media queries -------*/
 
