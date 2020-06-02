@@ -403,6 +403,19 @@ hr{
           background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/background.png);
           }
 
+           .white{
+          color: #fff;
+     }
+     
+     .common-btn{
+     border: 3px solid #000000;
+}
+
+.common-btn:hover{
+     background-color: #6CDBFF;
+     color: rebeccapurple;
+}
+
           .container{
           margin-right: 50px;
           margin-left: 50px;
